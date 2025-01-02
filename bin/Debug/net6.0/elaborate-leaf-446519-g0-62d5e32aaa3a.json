@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "elaborate-leaf-446519-g0",
+  "private_key_id": "62d5e32aaa3af0e2c5e12075a6eee7755f567d1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQmAt/DeJYnMZ2\nMMDRO9DSMRw5q5qW/XhX4qaqPW2ukxdSDR/VtJtzRbJTjK/IVg8pnjw4p6S6zuwJ\notFZMBhvi/11xvbQACj0ReiKNp22PSAR+9aK5E14HgAMAiVk4UaobcgczlgXbdht\nKO1xx7V6IsywLRiGYlLxMFB2kBO1skxBUK6N9rKFmOTQB/PVHTgUrPuwwy9pZg5n\nRS+VIPRT6eBxIk2rO0DGLkNGqndv6ADnxmmycSguqnGbW7mvhmrXbNpNSpZiU5e0\nJ8LuJs2J7u2eKcEeUEJXMgejI/oJ4bFdOkz6rsNwikQMUra2SFvKPqbvwuQ9P6Rs\nCceqFKfTAgMBAAECggEAKpADtIKkP1mKA17SUT9HzkPYEwppakrBDgnA4TbUlQ0N\ncqAb8VK/b2d2yiaITbQFtwPDHPpUGgwTzKmM1wqBye0CJFCbVvjZYnKLTvxy9NcH\nHrRI5CFOj2ZrsweTEsEG1mJENWCDSBCRW0DBJnjOFmRYaNBi0zTn4K/vkym149pl\n99DLiVpdBT4wOrAvmRLe60zG4KeQx3XJxqATaIVv10zDguE/2Cp5lVuS0qRgolze\nVptQ9x1+28yesFIaSbXBZyrg5g8BJ+V+pN7p1BZee9PH5+tUQVw/4O7TU4DOB+OZ\nRgOW11eoaZ2/YxoWOxO+F1HJ87GpPD4LO9LLLmztjQKBgQDnnSbxuYG2wkOiZUOe\ndcZ4nmZ2dRQ5ZvL47JQe22JDnye0Mevz6XUD0xboQYdLoDJGbissBU9tGhgd7PrN\nHtE6ZwxJb/es9m82hZbQARf8P1KURUZtzERVSrYh+DzPqC2KWFPtWok0iicKbjqu\nXT2X/DYr59kIQ+Iw3upWtzQTBQKBgQDmjmuV3phzH1MMgrU0VbqymBlHw4nLbHxO\ngpxGSbfx2Qiu1VegtJGRnbdzjulGbRmsljHVf0ryo7W+OhgDUjsz9oCrMDzElzsP\n0s8dT28Uoq0zXLZVk2mydyFGcU50gKqRXsNrd6EC70RpwecdKdzdTZmTWAS4Jfvb\nXtUpzmp29wKBgEbrLLiJR7mRJCp+fUTw5ROb1N3inY2yAyXLMtN780unWP3o50mp\nK0Y/hV0aa3XxmFNOenOhMJ/EhKvtGyJhlEkgsnduDFVuo8D7CKGqJBD9xqhVyenm\nyOmg1cHzA5PF+CPLRe+AcFChGLEt7VPkgu6dsGyjMiZAuuqh5vkkYZKNAoGBAKRS\n4c9BhbqXmuORzYDtkVF1Ip+JeI6qVbbHVIasSBRxscSafggmapI0rOoJ862kWOYv\nbnlSbqKdmA1q7m5/j36rtG1OxiEAALJ4d/HWCb/VakjvTW2U0YLHccn5PAfBJNDT\nj8jqzLGAw2v1LboVejuo8UqZM1Pkjqt93cQcQLllAoGAKxuT6N0M0TD5kfchb7VI\nxWm8LiWvSlmDDTuLZWhNtGGm1TfL3XpeVUhc/MJUS+yMX+AEiVoPeQnWa+x09Vpg\nv6mnQ1YImjtPgt6fo+EEhxWhsNduNqojNE11xn2AMTUSwqvi5QOesMjcGPUkfdUS\niEm7kFOrJgX2mVl2QghON4Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "generative-api@elaborate-leaf-446519-g0.iam.gserviceaccount.com",
+  "client_id": "104139068243853813808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/generative-api%40elaborate-leaf-446519-g0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

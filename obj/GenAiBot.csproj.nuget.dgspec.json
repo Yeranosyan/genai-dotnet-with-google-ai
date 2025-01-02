@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/GenAiBot.csproj": {}
+  },
+  "projects": {
+    "/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/GenAiBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/GenAiBot.csproj",
+        "projectName": "GenAiBot",
+        "projectPath": "/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/GenAiBot.csproj",
+        "packagesPath": "/Users/yeranosyan/.nuget/packages/",
+        "outputPath": "/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yeranosyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Google.Cloud.AIPlatform.V1": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

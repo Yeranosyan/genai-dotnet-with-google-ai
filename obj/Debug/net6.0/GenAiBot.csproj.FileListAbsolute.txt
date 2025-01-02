@@ -1,0 +1,171 @@
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/appsettings.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/contents.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/elaborate-leaf-446519-g0-62d5e32aaa3a.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/GenAiBot.staticwebassets.runtime.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/GenAiBot.staticwebassets.endpoints.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/GenAiBot
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/GenAiBot.deps.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/GenAiBot.runtimeconfig.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/GenAiBot.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/GenAiBot.pdb
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Api.CommonProtos.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Api.Gax.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Api.Gax.Grpc.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Apis.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Cloud.AIPlatform.V1.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Cloud.Iam.V1.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Cloud.Location.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.LongRunning.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Grpc.Auth.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Grpc.Net.Common.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/System.CodeDom.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/System.Management.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Management.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.AssemblyReference.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.AssemblyInfoInputs.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.AssemblyInfo.cs
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.CoreCompileInputs.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.MvcApplicationPartsAssemblyInfo.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.RazorAssemblyInfo.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.RazorAssemblyInfo.cs
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/scopedcss/bundle/GenAiBot.styles.css
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/scopedcss/projectbundle/GenAiBot.bundle.scp.css
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets.build.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets.development.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.GenAiBot.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.GenAiBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.build.GenAiBot.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.GenAiBot.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.GenAiBot.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.Up2Date
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/refint/GenAiBot.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.pdb
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/GenAiBot.genruntimeconfig.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/VertexAIRest/GenAiBot/obj/Debug/net6.0/ref/GenAiBot.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/appsettings.json
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/contents.json
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/elaborate-leaf-446519-g0-62d5e32aaa3a.json
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/GenAiBot.staticwebassets.endpoints.json
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/GenAiBot.staticwebassets.runtime.json
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/GenAiBot
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/GenAiBot.deps.json
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/GenAiBot.runtimeconfig.json
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/GenAiBot.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/GenAiBot.pdb
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Api.CommonProtos.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Api.Gax.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Api.Gax.Grpc.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Apis.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Cloud.AIPlatform.V1.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Cloud.Iam.V1.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Cloud.Location.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.LongRunning.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Grpc.Auth.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Grpc.Net.Common.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/System.CodeDom.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/System.Management.dll
+/Users/yeranosyan/Desktop/GenAiBot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Management.dll
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.AssemblyReference.cache
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.AssemblyInfoInputs.cache
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.AssemblyInfo.cs
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.CoreCompileInputs.cache
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.MvcApplicationPartsAssemblyInfo.cache
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.RazorAssemblyInfo.cache
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.RazorAssemblyInfo.cs
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/scopedcss/bundle/GenAiBot.styles.css
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/scopedcss/projectbundle/GenAiBot.bundle.scp.css
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets.build.json
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets.development.json
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.GenAiBot.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.GenAiBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.build.GenAiBot.props
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.GenAiBot.props
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.GenAiBot.props
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.Up2Date
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.dll
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/refint/GenAiBot.dll
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.pdb
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/GenAiBot.genruntimeconfig.cache
+/Users/yeranosyan/Desktop/GenAiBot/obj/Debug/net6.0/ref/GenAiBot.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/appsettings.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/contents.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/elaborate-leaf-446519-g0-62d5e32aaa3a.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/GenAiBot.staticwebassets.endpoints.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/GenAiBot.staticwebassets.runtime.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/GenAiBot
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/GenAiBot.deps.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/GenAiBot.runtimeconfig.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/GenAiBot.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/GenAiBot.pdb
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Api.CommonProtos.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Api.Gax.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Api.Gax.Grpc.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Apis.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Cloud.AIPlatform.V1.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Cloud.Iam.V1.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Cloud.Location.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.LongRunning.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Grpc.Auth.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Grpc.Net.Common.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/System.CodeDom.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/System.Management.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Management.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.AssemblyReference.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.AssemblyInfoInputs.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.AssemblyInfo.cs
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.CoreCompileInputs.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.MvcApplicationPartsAssemblyInfo.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.RazorAssemblyInfo.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.RazorAssemblyInfo.cs
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/scopedcss/bundle/GenAiBot.styles.css
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/scopedcss/projectbundle/GenAiBot.bundle.scp.css
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets.build.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets.development.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.GenAiBot.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.GenAiBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.build.GenAiBot.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.GenAiBot.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.GenAiBot.props
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.csproj.Up2Date
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/refint/GenAiBot.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.pdb
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/GenAiBot.genruntimeconfig.cache
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Code Projects/GenAiBot/obj/Debug/net6.0/ref/GenAiBot.dll
