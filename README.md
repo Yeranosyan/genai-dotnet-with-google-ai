@@ -1,6 +1,8 @@
 # GenAI for .NET Developers with Google AI
 
 This repository demonstrates how to integrate **Google Vertex AI API** into .NET applications.
+<img width="1348" alt="BotAi" src="https://github.com/user-attachments/assets/0aca3f94-8cab-4dac-8d54-d335d3c68d76" />
+
 
 ## Features
 
